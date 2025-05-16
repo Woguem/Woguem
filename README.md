@@ -20,6 +20,9 @@ I enjoy bridging the gap between research and real-world impact.
 **Languages & Frameworks**  
 Python, Pandas, scikit-learn, PyTorch, Hugging Face, FastAPI
 
+**Data Analysis Tools**  
+Jupyter, Matplotlib, Seaborn, SQL
+
 **MLOps & DevOps**  
 Docker, Kubernetes, AWS, CI/CD
 
