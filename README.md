@@ -24,7 +24,7 @@ Python, Pandas, scikit-learn, PyTorch, Hugging Face, FastAPI
 Jupyter, Matplotlib, Seaborn, SQL
 
 **MLOps & DevOps**  
-Docker, Kubernetes, AWS, CI/CD
+Docker, Kubernetes, CI/CD, AWS (IAM, S3, SageMaker, ECS, ECR, EC2, Lambda)
 
 ## 🔍 Currently Learning
 
