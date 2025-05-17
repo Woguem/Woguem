@@ -18,13 +18,13 @@ I enjoy bridging the gap between research and real-world impact.
 ## 🛠 Tech Stack
 
 **Languages & Frameworks**  
-Python, Pandas, scikit-learn, PyTorch, Hugging Face, FastAPI
+Python, Pandas, NumPy, scikit-learn, PyTorch, Hugging Face, FastAPI, PySpark
 
 **Data Analysis Tools**  
-Jupyter, Matplotlib, Seaborn, SQL
-
-**MLOps & DevOps**  
-Docker, Kubernetes, CI/CD, AWS (IAM, S3, SageMaker, ECS, ECR, EC2, Lambda)
+Jupyter, Matplotlib, Seaborn, SQL, Excel (with VBA), Power BI, Google Data Studio, ARIMA, Prophet
+ 
+**DevOps & Platforms**  
+Docker, Kubernetes, Git, Linux, CI/CD, AWS (IAM, S3, SageMaker, ECS, ECR, EC2, Lambda)
 
 ## 🔍 Currently Learning
 
@@ -39,4 +39,4 @@ Docker, Kubernetes, CI/CD, AWS (IAM, S3, SageMaker, ECS, ECR, EC2, Lambda)
 
 ---
 
-> 💡 *“Turning research into real-world intelligence.”*
+> 💡 *“Turning research, data pipelines, and insights into real-world intelligence.”*
